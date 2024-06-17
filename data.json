@@ -1,0 +1,818 @@
+[
+  {
+    "title": "1-1-A",
+    "notation": "56m5689p44667s777z",
+    "explain": ["8p"]
+  },
+  {
+    "title": "1-1-B",
+    "notation": "45m2344779p23367s",
+    "explain": ["4p"]
+  },
+  {
+    "title": "1-1-C",
+    "notation": "4578m1111234467s",
+    "explain": ["7m"]
+  },
+  {
+    "title": "1-1-D",
+    "notation": "577m23677p245577s",
+    "explain": ["2s"]
+  },
+  {
+    "title": "1-1-E",
+    "notation": "0666m56799p35567s",
+    "explain": ["9p"]
+  },
+  {
+    "wind": "西",
+    "round": 2,
+    "doraIndicator": "xx7sxxxx",
+    "title": "1-1-F",
+    "notation": "3467m5568p3478s44z",
+    "explain": ["4z"]
+  },
+  {
+    "title": "1-2-B",
+    "notation": "234677m388p23478s",
+    "explain": ["7m", "3p"]
+  },
+  {
+    "title": "1-2-C",
+    "notation": "234677m388p23468s",
+    "explain": ["7m"]
+  },
+  {
+    "title": "1-3-A",
+    "notation": "788m11379p1389s77z",
+    "explain": ["8m"]
+  },
+  {
+    "title": "1-3-B",
+    "notation": "788m99p1378s66z 77-7z",
+    "explain": ["3s"]
+  },
+  {
+    "title": "2-1-A",
+    "notation": "12367m24789p2288s",
+    "explain": ["2p"]
+  },
+  {
+    "title": "2-1-B",
+    "notation": "12367m24789p4499s",
+    "explain": ["2p"]
+  },
+  {
+    "title": "2-1-C",
+    "notation": "12345m24789p1199s",
+    "explain": ["2p"]
+  },
+  {
+    "title": "2-2-A",
+    "notation": "466m12388p224789s",
+    "explain": ["6m"]
+  },
+  {
+    "title": "2-2-B",
+    "notation": "46630578p799s 77-7z",
+    "explain": ["7s"]
+  },
+  {
+    "title": "2-3-A",
+    "notation": "058m122399p23389s",
+    "explain": ["8m"]
+  },
+  {
+    "title": "2-3-B",
+    "notation": "778899m2246p5688s",
+    "explain": ["6p"]
+  },
+  {
+    "title": "2-3-C",
+    "notation": "334455m1135p3588s",
+    "explain": ["1p"]
+  },
+  {
+    "title": "2-4-A",
+    "notation": "3467m135p2334889s",
+    "explain": ["9s"]
+  },
+  {
+    "title": "2-5-A",
+    "notation": "2567m24589p23789s",
+    "explain": ["2m"]
+  },
+  {
+    "wind": "西",
+    "round": 1,
+    "title": "2-5-B",
+    "notation": "69m34678p12378s47z",
+    "explain": ["7z"]
+  },
+  {
+    "title": "2-5-C",
+    "notation": "456m23468p112367s",
+    "explain": ["8p"]
+  },
+  {
+    "title": "2-5-D",
+    "notation": "23467m3479p67889s",
+    "explain": ["9p", "7p"]
+  },
+  {
+    "title": "2-5-E",
+    "notation": "456m55677p112367s",
+    "explain": ["1s"]
+  },
+  {
+    "title": "2-5-F",
+    "notation": "456m77899p112367s",
+    "explain": ["7p"]
+  },
+  {
+    "title": "2-6-A",
+    "notation": "789m122356p23678s",
+    "explain": ["3p"]
+  },
+  {
+    "title": "2-6-B",
+    "notation": "456m55667p347889s",
+    "explain": ["7s"]
+  },
+  {
+    "title": "3-1-A",
+    "notation": "34578m13p1288s777z",
+    "explain": ["2s", "1s"]
+  },
+  {
+    "title": "3-1-B",
+    "notation": "45789m3468p12389s",
+    "explain": ["9s", "8s"]
+  },
+  {
+    "title": "3-2-A",
+    "notation": "2268m35p23566778s",
+    "explain": ["8m"]
+  },
+  {
+    "title": "3-2-B",
+    "notation": "33406m1377p24788s",
+    "explain": ["1p"]
+  },
+  {
+    "title": "3-2-C",
+    "notation": "406m3368p22379s77z",
+    "explain": ["8p"]
+  },
+  {
+    "title": "3-2-D",
+    "notation": "2488m2477p567789s",
+    "explain": ["2p"]
+  },
+  {
+    "title": "3-2-E",
+    "notation": "123345m5568p2268s",
+    "explain": ["8p"]
+  },
+  {
+    "doraIndicator": "xx9pxxxx",
+    "title": "3-3-A",
+    "notation": "456m89p22489s1177z",
+    "explain": ["8p", "9p"]
+  },
+  {
+    "title": "3-4-A",
+    "notation": "577m223677p23468s",
+    "explain": ["7p"]
+  },
+  {
+    "title": "3-4-B",
+    "notation": "4577m23788p23468s",
+    "explain": ["8s", "6s"]
+  },
+  {
+    "title": "3-4-C",
+    "notation": "45m113678p133678s",
+    "explain": ["1s"]
+  },
+  {
+    "title": "3-4-D",
+    "notation": "45m112678p122678s",
+    "explain": ["1s"]
+  },
+  {
+    "title": "3-4-E",
+    "notation": "34067m112789p122s",
+    "explain": ["2p"]
+  },
+  {
+    "title": "3-5-A",
+    "notation": "789m345668p244s77z",
+    "explain": ["8p"]
+  },
+  {
+    "title": "3-5-B",
+    "notation": "789m456668p244s77z",
+    "explain": ["8p"]
+  },
+  {
+    "title": "3-5-C",
+    "notation": "789m345668p344s44z",
+    "explain": ["4s"]
+  },
+  {
+    "title": "3-5-D",
+    "notation": "4468m23p24688s777z",
+    "explain": ["8m"]
+  },
+  {
+    "title": "3-5-E",
+    "notation": "0579m237p35s44777z",
+    "explain": ["7p"]
+  },
+  {
+    "title": "3-6-A",
+    "notation": "34067m12p45789s77z",
+    "explain": ["2p"]
+  },
+  {
+    "title": "3-6-B",
+    "notation": "34067m12567p7888s",
+    "explain": ["1p"]
+  },
+  {
+    "title": "3-6-C",
+    "notation": "456789m230699p24s",
+    "explain": ["2s"]
+  },
+  {
+    "title": "3-6-D",
+    "notation": "456789m2305p1124s",
+    "explain": ["4s"]
+  },
+  {
+    "title": "3-6-E",
+    "notation": "3456m45689p22399s",
+    "explain": ["2s"]
+  },
+  {
+    "title": "3-6-F",
+    "notation": "3456m45689p24488s",
+    "explain": ["9p"]
+  },
+  {
+    "title": "4-1-A",
+    "notation": "246m23467p456888s",
+    "explain": ["2m", "6m"]
+  },
+  {
+    "title": "4-1-B",
+    "notation": "246m23467p556778s",
+    "explain": ["7s"]
+  },
+  {
+    "title": "4-1-C",
+    "notation": "566m445668p45666s",
+    "explain": ["6m"]
+  },
+  {
+    "title": "4-1-D",
+    "notation": "12399m4468p34789s",
+    "explain": ["4p"]
+  },
+  {
+    "title": "4-1-E",
+    "notation": "12399m4468p34999s",
+    "explain": ["8p"]
+  },
+  {
+    "title": "4-1-F",
+    "notation": "12377m4468p34789s",
+    "explain": ["8p"]
+  },
+  {
+    "title": "4-1-G",
+    "notation": "566m245679p45699s",
+    "explain": ["6m"]
+  },
+  {
+    "title": "4-1-H",
+    "notation": "168m15789p5679s44z",
+    "explain": ["1m"]
+  },
+  {
+    "title": "4-1-I",
+    "notation": "4569m59p556s44z 77-7z",
+    "explain": ["9p"]
+  },
+  {
+    "title": "4-1-J",
+    "notation": "1239m59p556s44z 77-7z",
+    "explain": ["9p"]
+  },
+  {
+    "title": "4-2-A",
+    "notation": "23479m3456p22688s",
+    "explain": ["9m"]
+  },
+  {
+    "title": "4-2-B",
+    "notation": "23479m1234p22688s",
+    "explain": ["1p"]
+  },
+  {
+    "title": "4-2-C",
+    "notation": "234789m6789p1256s",
+    "explain": ["2s", "1s"]
+  },
+  {
+    "title": "4-2-D",
+    "notation": "344678m3456p3406s",
+    "explain": ["6s"]
+  },
+  {
+    "title": "4-2-E",
+    "notation": "233567m3456p3406s",
+    "explain": ["2m"]
+  },
+  {
+    "title": "4-3-A",
+    "notation": "5667m344678p4556s",
+    "explain": ["3p"]
+  },
+  {
+    "title": "4-3-B",
+    "notation": "5667m344678p4456s",
+    "explain": ["3p"]
+  },
+  {
+    "title": "4-3-C",
+    "notation": "6777m234788p2334s",
+    "explain": ["3s"]
+  },
+  {
+    "doraIndicator": "xx4mxxxx",
+    "title": "4-3-D",
+    "notation": "0777m234455p5667s",
+    "explain": ["6s"]
+  },
+  {
+    "title": "4-3-E",
+    "notation": "2346m23346p45z678s",
+    "explain": ["6m"]
+  },
+  {
+    "title": "4-3-F",
+    "notation": "234m233468p45678s",
+    "explain": ["8p"]
+  },
+  {
+    "title": "4-3-G",
+    "notation": "789m13445p45678s4z",
+    "explain": ["4z"]
+  },
+  {
+    "title": "4-4-A",
+    "notation": "3456m6778p4456s44z",
+    "explain": ["4s"]
+  },
+  {
+    "title": "4-4-B",
+    "notation": "6678m34p22344568s",
+    "explain": ["6m"]
+  },
+  {
+    "title": "4-4-C",
+    "notation": "34568m6678p34888s",
+    "explain": ["6p"]
+  },
+  {
+    "title": "4-7-A",
+    "notation": "33678m3344p23478s",
+    "explain": ["4p"]
+  },
+  {
+    "title": "4-7-B",
+    "notation": "33678m3344p23468s",
+    "explain": ["8s"]
+  },
+  {
+    "title": "4-7-C",
+    "notation": "33678m8899p23468s",
+    "explain": ["9p"]
+  },
+  {
+    "title": "4-7-D",
+    "notation": "3368m3344p456667s",
+    "explain": ["8m"]
+  },
+  {
+    "title": "4-8-A",
+    "notation": "7799m123406p5578s",
+    "explain": ["9m", "7m"]
+  },
+  {
+    "title": "4-8-B",
+    "notation": "6688m123789p4578s",
+    "explain": ["8m"]
+  },
+  {
+    "title": "4-8-C",
+    "notation": "237799m123067p68s",
+    "explain": ["8s"]
+  },
+  {
+    "title": "4-8-D",
+    "notation": "678m224466p12378s",
+    "explain": ["4p"]
+  },
+  {
+    "title": "4-8-E",
+    "notation": "678m224466p12399s",
+    "explain": ["9s"]
+  },
+  {
+    "title": "4-8-F",
+    "notation": "678m224466p23477s",
+    "explain": ["7s", "4p"]
+  },
+  {
+    "title": "4-9-A",
+    "notation": "678m455679p2399s4z",
+    "explain": ["4z"]
+  },
+  {
+    "title": "4-9-B",
+    "notation": "67m11456p2356778s",
+    "explain": ["2s"]
+  },
+  {
+    "title": "4-9-C",
+    "notation": "678m455679p22388s",
+    "explain": ["9p"]
+  },
+  {
+    "wind": "東",
+    "round": 11,
+    "doraIndicator": "xx1sxxxx",
+    "title": "4-9-D",
+    "notation": "3556778m45p12388s",
+    "explain": ["3m"]
+  },
+  {
+    "title": "4-9-E",
+    "notation": "348m34458p307788s",
+    "explain": ["8m"]
+  },
+  {
+    "title": "4-9-F",
+    "notation": "348m44568p307788s",
+    "explain": ["8m"]
+  },
+  {
+    "title": "4-9-G",
+    "notation": "789m122346p34889s",
+    "explain": ["9s"]
+  },
+  {
+    "title": "4-13-A",
+    "notation": "3488m22234p12378s",
+    "explain": ["8m"]
+  },
+  {
+    "title": "4-13-B",
+    "notation": "3488m44456p22278s",
+    "explain": ["7s", "8s"]
+  },
+  {
+    "title": "4-14-A",
+    "notation": "78m4556778p11345s",
+    "explain": ["7p"]
+  },
+  {
+    "title": "4-14-B",
+    "notation": "78m5667889p11345s",
+    "explain": ["9p"]
+  },
+  {
+    "title": "4-14-C",
+    "notation": "67m34599p2234445s",
+    "explain": ["2s"]
+  },
+  {
+    "title": "4-14-D",
+    "notation": "67m34599p1123334s",
+    "explain": ["3s"]
+  },
+  {
+    "title": "4-14-E",
+    "notation": "677m222334p11067s",
+    "explain": ["7m"]
+  },
+  {
+    "title": "4-14-F",
+    "notation": "677m111223p11067s",
+    "explain": ["7m"]
+  },
+  {
+    "title": "4-14-G",
+    "notation": "677m111223p23067s",
+    "explain": ["2p"]
+  },
+  {
+    "title": "4-14-H",
+    "notation": "789m33445667p557s",
+    "explain": ["7s"]
+  },
+  {
+    "title": "4-14-I",
+    "notation": "789m11223445p557s",
+    "explain": ["7s"]
+  },
+  {
+    "title": "4-14-J",
+    "notation": "789m11223405p557s",
+    "explain": ["5p"]
+  },
+  {
+    "title": "4-15-A",
+    "notation": "233456778p33488s",
+    "explain": ["3s"]
+  },
+  {
+    "title": "4-15-B",
+    "notation": "122345667p33488s",
+    "explain": ["3s"]
+  },
+  {
+    "title": "4-15-C",
+    "notation": "1122345667p3488s",
+    "explain": ["1p"]
+  },
+  {
+    "round": 4,
+    "title": "4-15-D",
+    "notation": "778m23345667p123s",
+    "explain": ["8m"]
+  },
+  {
+    "title": "4-15-E",
+    "notation": "778m23345668p123s",
+    "explain": ["7m"]
+  },
+  {
+    "description": "能聽牌的進張是幾種幾枚？",
+    "title": "5-1-A",
+    "notation": "44677889m4568p9s",
+    "explain": ["*11 種 39 枚"]
+  },
+  {
+    "description": "能聽牌的進張是幾種幾枚？",
+    "title": "5-1-B",
+    "notation": "778899m223p1344s",
+    "explain": ["*8 種 25 枚"]
+  },
+  {
+    "description": "能聽牌的進張是幾種幾枚？",
+    "title": "5-1-C",
+    "notation": "444556789m5678p",
+    "explain": ["*14 種 43 枚"]
+  },
+  {
+    "title": "5-1-D",
+    "notation": "44677889m34457p2s",
+    "explain": ["2s"]
+  },
+  {
+    "title": "5-2-A",
+    "notation": "34788m222334p678s",
+    "explain": ["7m"]
+  },
+  {
+    "title": "5-2-B",
+    "notation": "34788m222344p678s",
+    "explain": ["4p"]
+  },
+  {
+    "title": "5-2-C",
+    "notation": "34688m222344567p",
+    "explain": ["6m"]
+  },
+  {
+    "title": "5-2-D",
+    "notation": "788m33444556p234s",
+    "explain": ["7m"]
+  },
+  {
+    "description": "聽什麼？",
+    "title": "5-3-A",
+    "notation": "1234445666789s",
+    "explain": ["3s", "4s", "5s", "6s", "7s"]
+  },
+  {
+    "description": "聽什麼？",
+    "title": "5-3-B",
+    "notation": "1234567778889p",
+    "explain": ["7p", "8p", "9p"]
+  },
+  {
+    "description": "聽什麼？",
+    "title": "5-3-C",
+    "notation": "1234566777888s",
+    "explain": ["3s", "5s", "6s", "7s", "8s"]
+  },
+  {
+    "description": "聽什麼？",
+    "title": "5-3-D",
+    "notation": "1234567778999p",
+    "explain": ["3p", "6p", "7p", "8p", "9p"]
+  },
+  {
+    "description": "聽什麼？",
+    "title": "5-3-E",
+    "notation": "1111235678999s",
+    "explain": ["4s", "5s", "7s", "8s"]
+  },
+  {
+    "description": "聽什麼？",
+    "title": "5-3-F",
+    "notation": "1112223445689m",
+    "explain": ["7m"]
+  },
+  {
+    "description": "聽什麼？",
+    "title": "5-3-G",
+    "notation": "2223334567889p",
+    "explain": ["7m", "8m"]
+  },
+  {
+    "description": "聽什麼？",
+    "title": "5-3-H",
+    "notation": "2245666778899s",
+    "explain": ["2s", "3s", "6s", "9s"]
+  },
+  {
+    "description": "聽什麼？",
+    "title": "5-3-I",
+    "notation": "4445566778899m",
+    "explain": ["4m", "5m", "6m", "7m", "8m", "9m"]
+  },
+  {
+    "description": "聽什麼？",
+    "title": "5-4-A",
+    "notation": "1115667778999m",
+    "explain": ["4m", "5m", "7m", "8m"]
+  },
+  {
+    "description": "聽什麼？",
+    "title": "5-4-B",
+    "notation": "1112345677889p",
+    "explain": ["2p", "3p", "5p", "6p", "8p", "9p"]
+  },
+  {
+    "description": "聽什麼？",
+    "title": "5-4-C",
+    "notation": "2333444556888s",
+    "explain": ["3s", "6s", "7s"]
+  },
+  {
+    "description": "聽什麼？",
+    "title": "5-4-D",
+    "notation": "2344445667899m",
+    "explain": ["1m", "7m", "9m"]
+  },
+  {
+    "description": "聽什麼？",
+    "title": "5-4-E",
+    "notation": "2233344566789p",
+    "explain": ["1p", "4p", "5p"]
+  },
+  {
+    "title": "6-1-A",
+    "notation": "77m3456789p22789s",
+    "explain": ["7m"]
+  },
+  {
+    "title": "6-1-B",
+    "notation": "77m11345678p3478s",
+    "explain": ["1p"]
+  },
+  {
+    "title": "6-1-C",
+    "notation": "77m22456789p1134s",
+    "explain": ["1s"]
+  },
+  {
+    "title": "6-2-A",
+    "notation": "3478m34566p33678s",
+    "explain": ["6p"]
+  },
+  {
+    "title": "6-2-B",
+    "notation": "34m34566p2355678s",
+    "explain": ["2s"]
+  },
+  {
+    "title": "6-2-C",
+    "notation": "67m45677p2355678s",
+    "explain": ["2s"]
+  },
+  {
+    "title": "6-2-D",
+    "notation": "67m56788p4456677s",
+    "explain": ["8p"]
+  },
+  {
+    "title": "6-3-A",
+    "notation": "334m678p35567778s",
+    "explain": ["3m"]
+  },
+  {
+    "doraIndicator": "xx1sxxxx",
+    "title": "6-3-B",
+    "notation": "778m234466p22678s",
+    "explain": ["8m"]
+  },
+  {
+    "round": 5,
+    "doraIndicator": "xx4sxxxx",
+    "title": "6-4-A",
+    "notation": "334406m5678p4456s",
+    "explain": ["4s"]
+  },
+  {
+    "title": "6-5-A",
+    "notation": "466m34799p234668s",
+    "explain": ["9p"]
+  },
+  {
+    "title": "6-5-B",
+    "notation": "579m34678p233444s",
+    "explain": ["9m"]
+  },
+  {
+    "doraIndicator": "xx1sxxxx",
+    "title": "6-6-A",
+    "notation": "23345667p223789s",
+    "explain": ["3s"]
+  },
+  {
+    "description": "和牌即一位，何切？",
+    "title": "7-1-A",
+    "notation": "45688m222344p677s",
+    "explain": ["7s"]
+  },
+  {
+    "description": "和牌即一位，何切？",
+    "title": "7-1-B",
+    "notation": "45688m222344p788s",
+    "explain": ["4p"]
+  },
+  {
+    "doraIndicator": "xx7mxxxx",
+    "title": "7-2-A",
+    "notation": "344088m5677p3s 77-7z",
+    "explain": ["3s"]
+  },
+  {
+    "title": "7-3-A",
+    "notation": "788m22406p667s 77-7z",
+    "explain": ["6s"]
+  },
+  {
+    "title": "7-3-B",
+    "notation": "688m22406p305s 7-68p",
+    "explain": ["3s"]
+  },
+  {
+    "doraIndicator": "xx2sxxxx",
+    "title": "7-4-A",
+    "notation": "0678m224567p3055s",
+    "explain": ["8m"]
+  },
+  {
+    "title": "7-5-A",
+    "notation": "2388m1234567p 7-77z",
+    "explain": ["1p"]
+  },
+  {
+    "title": "7-5-B",
+    "notation": "2388m1234456p 7-77z",
+    "explain": ["1p"]
+  },
+  {
+    "title": "7-5-C",
+    "notation": "2388m2334456p 7-77z",
+    "explain": ["3p"]
+  },
+  {
+    "title": "7-5-D",
+    "notation": "2388m2344556p 7-77z",
+    "explain": ["5p"]
+  },
+  {
+    "title": "7-5-E",
+    "notation": "2388m2345567p 7-77z",
+    "explain": ["5p"]
+  }
+]
